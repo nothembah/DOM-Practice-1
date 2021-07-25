@@ -14,7 +14,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## :handshake: Contributing
 Contributions, issues and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/nothembah/Javascript-Practice/issues)
+Feel free to check the [issues page](https://github.com/nothembah/DOM-Practice-1/issues)
 
 ## Show your support
 
